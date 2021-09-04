@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odebisiidowusolomon&layout=compact)](https://github.com/odebisiidowusolomon/github-readme-stats)
 <br/>
 
- <a href="https://github.com/odebisiidowusolomon/github-readme-stats">
+<!--  <a href="https://github.com/odebisiidowusolomon/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kralconomoh" />
-</a>
+</a> -->
 
 <br/><br/>
 
