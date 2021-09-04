@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 <br/><br/>
 
 [![Solomon GitHub stats](https://github-readme-stats.vercel.app/api?username=odebisiidowusolomon&hide=html&theme=tokyonight)](https://github.com/odebisiidowusolomon/github-readme-stats)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odebisiidowusolomon&layout=compact)](https://github.com/odebisiidowusolomon/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odebisiidowusolomon&layout=compact)](https://github.com/odebisiidowusolomon/github-readme-stats) -->
 <br/>
+
 
 <!--  <a href="https://github.com/odebisiidowusolomon/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kralconomoh" />
