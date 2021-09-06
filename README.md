@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/odebisi-solomon-idowu-9b44591b1/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://wa.me/2347019481634?text=Hello Solomon" target="_blank">
+<a href="https://wa.me/+2347019481634?text=Hello Solomon" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 <br/><br/>
