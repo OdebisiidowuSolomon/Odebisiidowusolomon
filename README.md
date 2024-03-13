@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp;
 <br/><br/>
 
-[![Solomon GitHub stats](https://github-readme-stats.vercel.app/api?username=odebisiidowusolomon&hide=html&theme=tokyonight)](https://github.com/odebisiidowusolomon/github-readme-stats)&nbsp;&nbsp;
+<!-- [![Solomon GitHub stats](https://github-readme-stats.vercel.app/api?username=odebisiidowusolomon&hide=html&theme=tokyonight)](https://github.com/odebisiidowusolomon/github-readme-stats)&nbsp;&nbsp;  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odebisiidowusolomon&layout=compact)](https://github.com/odebisiidowusolomon/github-readme-stats) -->
-<br/>
+<!-- <br/> -->
 
 
 <!--  <a href="https://github.com/odebisiidowusolomon/github-readme-stats">
