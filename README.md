@@ -22,7 +22,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/odebisi-solomon-idowu-9b44591b1/" target="_blank">
+
+<a href="https://www.linkedin.com/in/odebisi-idowu-solomon/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://wa.me/+2347019481634?text=Hello Solomon" target="_blank">
